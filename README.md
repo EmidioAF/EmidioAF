@@ -25,6 +25,7 @@
 - [Central-de-Gerenciamento-de-Apostas](https://github.com/EmidioAF/Central-de-Gerenciamento-de-Apostas)
 - [New-Portifolio](https://github.com/EmidioAF/New-Portifolio)
 - [App-Ifood](https://github.com/EmidioAF/App-Ifood)
+- [GameBox](https://github.com/EmidioAF/Projeto-Exp.-Criativa)
 
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EmidioAF&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
