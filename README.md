@@ -1,17 +1,17 @@
 ## About Me:
 - Bachelor's Degree Student in Information Systems - PUCPR/BR
 - Just a guy trying to live better.
-
+- uturFe goal is to specialize in data engineering and game development.
 
 ## What i'm doing?
 - Currently working on academic and personal projects
 - Languages ​​Known:
-> JavaScript (intermediate, still learning)
-> HTML/CSS
-> Python (moderate)
-> Java (also intermediate, but studying it)
-> C# (the language that i started and like the most)
-> SQL (also one that i like)
+  - JavaScript (intermediate, still learning)
+  - HTML/CSS
+  - Python (moderate)
+  - Java (also intermediate, but studying it)
+  - C# (the language that i started and like the most)
+  - SQL (also one that i like)
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emidio.angelotti/)
