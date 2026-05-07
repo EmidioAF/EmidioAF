@@ -1,7 +1,6 @@
 ## About Me:
 - Bachelor's Degree Student in Information Systems - PUCPR/BR
-- Just a guy trying to live better.
-- uturFe goal is to specialize in data engineering and game development.
+- Future goal is to specialize in data engineering and game development.
 
 ## What i'm doing?
 - Currently working on academic and personal projects
