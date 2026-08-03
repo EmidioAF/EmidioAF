@@ -11,6 +11,7 @@
   - Java (also intermediate, but studying it)
   - C# (the language that i started and like the most)
   - SQL (also one that i like)
+  - Scripts in PowerShell
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/emidio.angelotti/)
