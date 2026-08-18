@@ -3,14 +3,17 @@
 - Future goal is to specialize in data engineering and game development.
 
 ## What i'm doing?
-- Currently working on academic and personal projects
+- Currently working on Compasa do Brasil in Paraná as IT Intern
+> For now, i've being working on: AD; 365; SharePoint; standardization; scripts; Tier 1/Tier 2 support;
+
+- Workin on some projects and certifications
 - Languages ​​Known:
   - JavaScript (intermediate, still learning)
   - HTML/CSS
   - Python (moderate)
-  - Java (also intermediate, but studying it)
-  - C# (the language that i started and like the most)
-  - SQL (also one that i like)
+  - Java (also intermediate, but learning)
+  - C# (the language that i started)
+  - SQL (also one that i enjoy and in which i intend to specialize)
   - Scripts in PowerShell
 
 ## Socials:
