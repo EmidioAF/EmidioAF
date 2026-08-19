@@ -4,9 +4,9 @@
 
 ## What i'm doing?
 - Currently working on Compasa do Brasil in Paraná as IT Intern
-> For now, i've being working on: AD; 365; SharePoint; standardization; scripts; Tier 1/Tier 2 support;
+> For now, i've being doing: AD; 365; SharePoint; standardization; scripts; Tier 1/Tier 2 support;
 
-- Workin on some projects and certifications
+- Working on some projects and certifications
 - Languages ​​Known:
   - JavaScript (intermediate, still learning)
   - HTML/CSS
