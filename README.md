@@ -4,16 +4,15 @@
 
 ## What i'm doing?
 - Currently working on Compasa do Brasil in Paraná as IT Intern
-> For now, i've being doing: AD; 365; SharePoint; standardization; scripts; Tier 1/Tier 2 support;
+> For now, i've being doing: AD; M365; SharePoint; standardization; scripts; Tier 1/Tier 2 support and a little of servers.
 
 - Working on some projects and certifications
-- Languages ​​Known:
-  - JavaScript (intermediate, still learning)
-  - HTML/CSS
-  - Python (moderate)
-  - Java (also intermediate, but learning)
-  - C# (the language that i started)
-  - SQL (also one that i enjoy and in which i intend to specialize)
+- Languages ​​that i can work with:
+  - JavaScript
+  - Python
+  - Java
+  - C#
+  - SQL (intend to specialize)
   - Scripts in PowerShell
 
 ## Socials:
