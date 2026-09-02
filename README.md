@@ -3,7 +3,7 @@
 - Future goal is to specialize in data engineering and game development.
 
 ## What i'm doing?
-- Currently working on Compasa do Brasil in Paraná as IT Intern
+- Currently working on Compasa do Brasil in Paraná/Brazil as IT Intern
 > For now, i've being doing: AD; M365; SharePoint; standardization; scripts; Tier 1/Tier 2 support and a little of servers.
 
 - Working on some projects and certifications
